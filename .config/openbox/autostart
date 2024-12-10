@@ -1,0 +1,6 @@
+picom &
+vibrant-cli HDMI-1 2 &
+nm-applet &
+pcmanfm --desktop &
+tint2 -c ~/.config/tint2/dock.tint2rc &
+tint2

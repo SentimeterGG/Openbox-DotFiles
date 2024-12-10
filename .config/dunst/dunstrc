@@ -1,0 +1,32 @@
+[global]
+    font = Product Sans 11
+    markup = full
+    alignment = left
+    follow = keyboard
+    width = (300,900)
+    height = 800
+    ignore_newline = no
+    padding = 12
+    origin = bottom-right
+
+    icon_position = off
+    corner_radius = 8
+    frame_width = 1
+
+[urgency_low]
+    background = "#161616E6"
+    foreground = "#FFFFFF"
+    frame_color = "#000000E6"
+    timeout = 3
+
+[urgency_normal]
+    background = "#161616E6"
+    foreground = "#FFFFFF"
+    frame_color = "#000000E6"
+    timeout = 3
+
+[urgency_critical]
+    background = "#161616E6"
+    foreground = "#FFFFFF"
+    frame_color = "#000000E6"
+    timeout = 3
